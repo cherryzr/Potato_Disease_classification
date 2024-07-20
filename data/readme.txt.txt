@@ -1,0 +1,1 @@
+data taken from: https://www.kaggle.com/datasets/arjuntejaswi/plant-village (342 Mb)
